@@ -5,5 +5,5 @@
 ## <em> -Legajo: 208.689-0 </em>
 ## <em> -Apellido: Alonso </em>
 ## <em> -Nombre: David </em>
-## <em> -Compilador: Visual Studio Code </em>
+* <em> -Compilador: Visual Studio Code </em>
 
