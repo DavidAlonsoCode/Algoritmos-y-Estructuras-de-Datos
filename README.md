@@ -1,5 +1,5 @@
 # <em>💻 Algoritmos y Estructuras de Datos 💻</em>
-![Portada](https://user-images.githubusercontent.com/113206652/234991709-ebcd231c-410e-4f5e-94d4-f51ee2f63d0c.jpg)
+![Portada2](https://user-images.githubusercontent.com/113206652/234992259-b73e7729-d93e-4822-a636-5b29154de9cc.jpg)
 * <em> -Curso: K1051 </em>
 * <em> -Año: 2023 </em>
 * <em> -Legajo: 208.689-0 </em>
