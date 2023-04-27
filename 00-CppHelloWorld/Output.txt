@@ -1,4 +1,4 @@
 PS C:\Users\DEJ2> cd 'c:\Users\DEJ2\OneDrive - UTN.BA (1)\UTN Dave\01 AÑO 2023 XD\Algoritmos y Estructura de Datos\00-CppHelloWorld\output'
 PS C:\Users\DEJ2\OneDrive - UTN.BA (1)\UTN Dave\01 AÑO 2023 XD\Algoritmos y Estructura de Datos\00-CppHelloWorld\output> & .\'Hola.exe'
-Hola todos
+Hello world
 PS C:\Users\DEJ2\OneDrive - UTN.BA (1)\UTN Dave\01 AÑO 2023 XD\Algoritmos y Estructura de Datos\00-CppHelloWorld\output> 
